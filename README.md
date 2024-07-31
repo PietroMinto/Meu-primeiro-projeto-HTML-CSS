@@ -10,3 +10,5 @@
 <br>
 <img src="https://github.com/PietroMinto/Meu-primeiro-projeto-HTML-CSS/blob/main/img/Desktop%20Screenshot%202024.07.27%20-%2015.37.31.78.png?raw=true">
 <br>
+<h2>Também fizemos está pagina ser responsiva conforme o tamnho da tela irá diminuindo, assim sendo possível acessar está pagina tanto pelo celular qunto pelo Desktop</h2>
+<img src="https://github.com/PietroMinto/Meu-primeiro-projeto-HTML-CSS/blob/main/img/Desktop%20Screenshot%202024.07.27%20-%2015.37.45.96.png?raw=true">
