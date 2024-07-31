@@ -1,7 +1,7 @@
 <h1>Esse foi meu primeiro projeto feito</h1>
 <br>
 <br>
-<h2>Tudo que aprendi nesse projeto e onde aprendi foi graças ao <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<h2>Tudo que aprendi nesse projeto foi graças ao <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
 <h2>Tecnologias usadas para esse projeto</h2>
 <br>
